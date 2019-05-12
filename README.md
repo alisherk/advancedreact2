@@ -1,8 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+
+This is repo contains client and server dirs. This is primary for learning react and redux with the concept of middleware and making asynchronous requests. The server contains auth APIs using passport and jwt as well as local login that you can make a call to from React.
+Client has been bootsrapped with creat-react-app and contains all commands found below 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the server directory, you can run npm run dev to start a local server.
+
+In the client directory, you can run:
 
 ### `npm start`
 
